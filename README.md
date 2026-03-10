@@ -53,7 +53,6 @@ This project was developed during backend training at **MediLink & Mo7amer**.
   - Edit cart items
   - Remove items from cart
 - Built checkout and payment APIs with **Stripe integration**.
-- Handled payment flow and order processing.
 - Used **Git/GitHub** for version control and teamwork.
 
 ### Technologies

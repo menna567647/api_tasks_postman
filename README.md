@@ -64,9 +64,9 @@ Laravel, MySQL, REST API, Stripe Payment Gateway, Git/GitHub
 The repository includes **Postman screenshots** demonstrating the implemented API endpoints and their responses.
 
 #### MediLink – Doctor Booking
-
-show available slots
+show doctors schedules based on booking type
 ![doctors_schedules](MediLink/booking/doctors_schedules.png)
+show available slots
 ![doctor_available_slots](MediLink/booking/doctor_available_slots.png)
 booking process
 ![book an appointment](MediLink/booking/booking_appointment_other.png)
@@ -75,21 +75,32 @@ confirm booking
 ![confirm_appointment](MediLink/booking/confirm_appointment.png)
 cancel booking
 ![cancel_appointment](MediLink/booking/cancel_appointment.png)
+
 show patient appointments
 ![patient_appointments](MediLink/booking/patient_appointments.png)
 
-doctor withdrawals
+request withdrawals
 ![request_withdrawal](MediLink/doctor/request_withdrawal.png)
+doctor withdrawals
 ![doctor withdrawals](MediLink/doctor/doctor_withdrawals.png)
+
 Notifications
 ![user notifications](MediLink/notifications/user_notifications.png)
+mark as read
 ![mark_as_read](MediLink/notifications/mark_as_read.png)
 
+show patient profile
 ![patient_profile](MediLink/patient/patient_profile.png)
-settings
+
+delete profile
 ![delete_profile](MediLink/settings/delete_profile.png)
+
+show languages
 ![languages](MediLink/settings/languages.png)
+
+settings
 ![privacy$policy](MediLink/settings/settings_privacy$policy.png)
+
 Specialties
 ![Specialties](MediLink/specialties.png)
 
@@ -97,16 +108,28 @@ Specialties
 
 cart
 ![cart](Mo7amer/cart/cart.png)
+add to cart
 ![add_to_cart](Mo7amer/cart/add_to_cart.png)
+remove item from cart
 ![remove_item_from_cart](Mo7amer/cart/remove_item_from_cart.png)
+edit cart item
 ![edit_cart_item](Mo7amer/cart/edit_cart_item.png)
 ![edit_cart_item_addon](Mo7amer/cart/edit_cart_item_addon.png)
+
 home page
+most requested meals
 ![most_requested_meals](Mo7amer/home/most_requested_meals.png)
+food sections
 ![food_sections](Mo7amer/home/food_sections.png)
+customer offer for first meal
 ![customer offers](Mo7amer/home/customer_offers.png)
+
 payment
+checkout url
 ![checkout](Mo7amer/payment/checkout.png)
+stripe checkout
 ![stripe checkout](Mo7amer/payment/stripe.png)
 ![payment successful](Mo7amer/payment/payment_successful.png)
+
+cancel order
 ![cancel order](Mo7amer/payment/cancel_order.png)

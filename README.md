@@ -127,7 +127,6 @@ customer offer for first meal
 payment
 checkout url
 ![checkout](Mo7amer/payment/checkout.png)
-stripe checkout
 ![stripe checkout](Mo7amer/payment/stripe.png)
 ![payment successful](Mo7amer/payment/payment_successful.png)
 
